@@ -1,0 +1,42 @@
+
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+]
+java:S1192T"GDefine a constant instead of duplicating this literal "UNION
+" 4 times.(—éÛ¤
+e
+java:S1192S"ODefine a constant instead of duplicating this literal "group by sexe
+" 4 times.(´»ÚÕ
+d
+java:S1192 "NDefine a constant instead of duplicating this literal "FROM employe
+" 6 times.(•öÁÒ
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÅœÍÔ
+ˆ
+java:S13194"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÏîñÍüÿÿÿÿ
+ƒ
+java:S1319L"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(î©åÍ
+‰
+java:S1319ƒ"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(š•¤Éûÿÿÿÿ
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï®ÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾ˆÁùÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(“½Ã›ùÿÿÿÿ
+H
+java:S61268"2Replace this String concatenation with Text block.(éˆì
+H
+java:S6126P"2Replace this String concatenation with Text block.(Ò°á¸
+I
+java:S6126‡"2Replace this String concatenation with Text block.(ş…ƒ·
+M
+java:S1128"0Remove this unused import 'Entities.DatasGraph'.(Ùæ•Ö8ÇÍš–Ì0
+R
+java:S1128"5Remove this unused import 'javax.swing.plaf.PanelUI'.(àÖÀ©8ÇÍš–Ì0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÇÍš–Ì0
+Q
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8ÇÍš–Ì0
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÈÍš–Ì0

@@ -74,7 +74,7 @@ public class CtrlGraphique
     }
 
     public HashMap<String, HashMap<String, Integer>> getSexeByTrancheAge(){
-        HashMap<String, HashMap<String, Integer>> sexeByTrangeAge = new HashMap<>();
+        HashMap<String, HashMap<String, Integer >> sexeByTrangeAge = new HashMap<>();
 
         try {
             ps = cnx.prepareStatement("SELECT sexe,'+50' as tranche, COUNT(sexe) as nb\n" +
@@ -114,7 +114,6 @@ public class CtrlGraphique
                     nb = rs.getInt("nb");
                 }
                 if (sexeByTrangeAge.containsKey(rs.getString("sexe"))){
-
                     sexeByTrangeAge.get(rs.getString("sexe")).put(rs.getString("tranche"), nb);
                 }
                 else {

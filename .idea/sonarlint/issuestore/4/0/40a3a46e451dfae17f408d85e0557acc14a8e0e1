@@ -1,0 +1,20 @@
+
+J
+java:S3740["/Provide the parametrized type for this generic.(é ³úÿÿÿÿ
+J
+java:S3740|"/Provide the parametrized type for this generic.( …áãúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı™¥Öşÿÿÿÿ
+E
+java:S1948"/Make "ctrlGraphique" transient or serializable.(¢©é
+B
+java:S2440'",Remove this instantiation of "ConnexionBDD".(·ä´½
+>
+java:S1481'"(Remove this unused "cnx" local variable.(·ä´½
+H
+java:S1905,"-Remove this unnecessary cast to "Comparable".(À¦ãûøÿÿÿÿ
+V
+java:S1858}";There's no need to call "toString()" on an array of String.(£¢âïüÿÿÿÿ
+Q
+java:S1858~";There's no need to call "toString()" on an array of String.(¾÷
+V
+java:S1858";There's no need to call "toString()" on an array of String.(¸Æ®ûÿÿÿÿ
